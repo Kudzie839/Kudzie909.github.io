@@ -1,0 +1,30 @@
+zimbabwe_bus_recovery/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+│       ├── logo.png
+│       ├── hero-background.jpg
+│       ├── report-background.jpg
+│       ├── search-background.jpg
+│       ├── about-mission.jpg
+│       └── about-benefits.jpg
+├── includes/
+│   ├── db_connect.php
+│   ├── functions.php
+│   ├── header.php
+│   └── footer.php
+├── admin/
+│   ├── index.php
+│   ├── dashboard.php
+│   ├── reports.php
+│   ├── found_items.php
+│   └── logout.php
+├── index.php
+├── report.php
+├── search.php
+├── about.php
+├── contact.php
+└── database.sql
